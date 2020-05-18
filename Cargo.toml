@@ -4,6 +4,9 @@ version = "0.14.0"
 authors = ["Jeron Aldaron Lau <jeronlau@plopgrizzly.com>"]
 edition = "2018"
 description = "This project has moved to the cala crate"
+repository = "https://github.com/AldaronLau/adi"
+documentation = "https://docs.rs/adi"
+homepage = "https://libcala.github.io"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
