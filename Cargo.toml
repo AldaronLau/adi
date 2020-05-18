@@ -1,0 +1,12 @@
+[package]
+name = "adi"
+version = "0.14.0"
+authors = ["Jeron Aldaron Lau <jeronlau@plopgrizzly.com>"]
+edition = "2018"
+description = "This project has moved to the cala crate"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies.cala]
+version = "*"
+features = ["docs-rs"]
